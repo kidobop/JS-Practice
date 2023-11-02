@@ -1,3 +1,1 @@
-# git_test
-My first git repo
-Hello Odin!
+# Projects used to Practice JS DOM and Events
